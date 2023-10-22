@@ -10,18 +10,16 @@ The following libraries and versions were used:
 # Usage
 GBP-PR has 2 step for use:
 
-#Step 2: Generating input: A input file must be filled with data and the weights for each Variant_Classification. 
+#**Step 2**: Generating input: A input file must be filled with data and the weights for each Variant_Classification. 
 - Mutation data on MAF file format
 - Mutation score for each gene
-- Gene interaction network in edge lists
+-Gene interaction networks in edge lists
 
-#Step 2: GBP Gene Proritization with different rating options are 
+#**Step 2**: GBP Gene Proritization with different rating options are 
 1. GBP-PR (PageRank with dynamic damping factor)
 2. GBP-Keener
 3. GBP-Colley 
-4. GBP-Massey 
-
+4. GBP-Massey
+5. 
 A running example is set on the file python GBP-PR_Agorithm.py 
-
-A set of output files is generated. 
-s
+A set of output files is generated.
