@@ -1,4 +1,4 @@
-#GBP-PR (A Graph-Based Approach for Prioritizing Sets of Related Cancer Genes)
+# **GBP-PR (A Graph-Based Approach for Prioritizing Sets of Related Cancer Genes)**
 The following libraries and versions were used:
  - Python 3.7.7
  - pandas 1.0.5
