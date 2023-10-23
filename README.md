@@ -17,13 +17,13 @@ GBP-PR has 4 implentation steps:
 
 #**Step 2**: Bulding Consensus gene interaction network:
 
--Reactome Functional Interactions (Reactome) 
--Human Protein Reference Database (HPRD)
+- Reactome Functional Interactions (Reactome) 
+- Human Protein Reference Database (HPRD)
 
 #**Step 3**: Computing final mutation score:
 
--Gene spreading strength
--Mutation neighbor influence
+- Gene spreading strength
+- Mutation neighbor influence
 
 #**Step 4**: GBP Gene Proritization with different rating options are: 
 1. GBP-PR (PageRank with dynamic damping factor)
