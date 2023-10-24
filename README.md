@@ -25,7 +25,7 @@ GBP-PR has 4 implentation steps:
 - Gene spreading strength
 - Mutation neighbor influence
 
-#**Step 4**: GBP Gene Proritization with different rating options are: 
+#**Step 4**: GBP Gene Proritization with different rating options:  
 1. GBP-PR (PageRank with dynamic damping factor)
 2. GBP-Keener
 3. GBP-Colley 
